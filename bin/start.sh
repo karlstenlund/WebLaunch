@@ -79,6 +79,3 @@ fi
 ## Start the application
 
 lipc-set-prop com.lab126.appmgrd start app://$APP_ID
-
-
-
